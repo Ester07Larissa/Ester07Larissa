@@ -1,6 +1,6 @@
 # SOBRE MIM
 
-- 👋 Hi, I’m @Ester07Larissa
+- 👋 Oi Eu sou a @Ester07Larissa
 - 🤜Email de contato: m.ester@escola.pr.gov.br
 - 👀 Eu estou interessada em aprender novos programas 
 - 🌱 Eu estou estudando novos programas 
